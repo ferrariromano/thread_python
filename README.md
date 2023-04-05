@@ -1,0 +1,4 @@
+# IMPLEMENTASI MANAGEMENT THREAD
+(membuat, menghentikan, dan menentukan prioritas)
+
+NB : HILANGKAN COMMAND BUAT MENJALANKAN PROGRAM
